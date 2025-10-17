@@ -1,0 +1,10 @@
+git init – initialize a new git repository
+git status – show current changes and tracked files
+git add – stage files for commit
+git commit – save staged changes locally
+git push – upload commits to GitHub
+git pull – fetch and merge latest changes
+git branch – list or create branches
+git checkout – switch between branches
+git merge – combine branch changes into one
+git clone – copy a remote repository locally
