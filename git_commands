@@ -8,3 +8,4 @@ git branch – list or create branches
 git checkout – switch between branches
 git merge – combine branch changes into one
 git clone – copy a remote repository locally
+Updated
